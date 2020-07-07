@@ -3,6 +3,8 @@ Loan Approval Prediction
 
 ### Project is a Part of Hackathon by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
 
+***
+
 ### Evaluation Metric is Accuracy.
 
 ### [Data Sets](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement) : Train and Test Files from Analytics Vidhya Hackathon.
@@ -27,15 +29,17 @@ Loan Approval Prediction
 
 ### Flow of Project :
 
-1. **[Exploratory Data Analysis](#EDA)**
+1. **Exploratory Data Analysis**
 
-2. **[Data Visualization](#DV)**
+2. **Data Visualization**
 
-3. **[Data Preprocessing](DP)**
+3. **Data Preprocessing**
 
-4. **[Data Modelling and Evaluation](DME)**
+4. **Data Modelling and Evaluation**
 
-5. **[Conclusion](#CON)**
+5. **Conclusion**
+
+***
 
 ### Machine Learning Algorithms :
 
@@ -47,11 +51,15 @@ Loan Approval Prediction
 
 4. **XGBOOST Classifier**
 
+***
+
 ### Model Selection Technique :
 
 1. **Stratified K Fold**
 
 2. **Grid Search Cross Validation**
+
+***
 
 ### Data Evaluation Techniques :
 
@@ -60,6 +68,8 @@ Loan Approval Prediction
 2. **ROC AUC Curve**
 
 3. **Classification Report**
+
+***
 
 ### Topics you will Learn with this Project :
 
@@ -83,4 +93,6 @@ Loan Approval Prediction
 
 10. **Improving Model**
 
-**This Project is a Good Combination of Almost Every Important Concepts in Machine Learning, Covering Every Aspects of Creating a Good Model.**
+**This Project is a Good Combination of Almost Every Important Concepts in Machine Learning.**
+
+**Covering Every Aspects of Creating a Good Model.**
