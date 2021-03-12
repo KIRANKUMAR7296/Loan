@@ -101,4 +101,3 @@ Loan Approval Prediction
 
 1. Decision Tree
 2. Random Forest
-3. Random Forest ( K Fold Cross Validation )
