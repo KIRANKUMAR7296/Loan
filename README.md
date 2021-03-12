@@ -96,3 +96,9 @@ Loan Approval Prediction
 **This Project is a Good Combination of Almost Every Important Concepts in Machine Learning.**
 
 **Covering Every Aspects of Creating a Good Model.**
+
+### Models 
+
+1. Decision Tree
+2. Random Forest
+3. Random Forest ( K Fold Cross Validation )
