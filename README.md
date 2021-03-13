@@ -1,5 +1,5 @@
 # Loan-Approval
-Loan Approval Prediction
+Loan Approval Classification
 
 ### Project is a Part of Hackathon by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
 
